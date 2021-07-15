@@ -11,3 +11,9 @@ A simple Phone Unbox script converting one item to another.
 3.Drag and drop the phoneunbox.lua into the server folder of the gcphone.
 
 4.You can either add the phoneunbox.lua to your fxmanifest.lua in your gcphone folder or use the fxmanifest.lua I provided.
+
+5.You will need to head over to your database and add these item names to your database.
+
+-blueiphonepackage
+-whiteiphonepackage
+-greeniphonepackage
