@@ -4,7 +4,7 @@ A simple Phone Unbox script converting one item to another.
 
 #How to install.
 
-1. Go to your gcphone folder on your server.
+1.Go to your gcphone folder on your server.
 
 2.Open the folder you downloaded from my git.
 
